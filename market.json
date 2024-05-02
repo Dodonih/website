@@ -1,0 +1,17 @@
+{
+  "Market": " 市场",
+  "Pair": "币对",
+  "LastPrice": "最新价",
+  "Change": "24h 涨跌",
+  "High": "最高",
+  "Low": "最低",
+  "Volume": "24h 市值",
+  "Favourite": "自选",
+  "Unfavourite": "移除",
+  "24Hour": "24小时",
+  "NoDataFound": "没有数据",
+  "Trade": "交易",
+  "FindPromising": "Find promising token and invest in great opportunities!",
+  "Invest": "Invest",
+  "TradeNow": "Trade Now"
+}

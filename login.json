@@ -1,0 +1,32 @@
+{
+  "Login": {
+    "Title": "登录",
+    "Subheading": "欢迎回来!",
+    "Email": "邮箱",
+    "Password": "密码",
+    "Captcha": "验证码",
+    "ForgotYourPassword": "忘记密码?",
+    "RegisterNow": "立刻注册",
+    "FormValidations": {
+      "Required": "请填写此字段",
+      "EmailValid": "邮箱地址无效，仅限使用数字、字母或“@_.”字符"
+    },
+    "Submit": "登录",
+    "2FaCode": "双重身份验证代码 (若适用)",
+
+    "LoginToBitwewe": "登录到币威",
+    "DontHaveAccount": "未拥有账户",
+    "RegisterHere": "在这里注册",
+    "TwoFaCode": "2FA代码（可选）",
+    "SixDigitCode": "6-digit code",
+    "RememberMe": "记住我",
+    "2FaRequire": "需填入2FA验证码",
+    "EmailVerification": "电子邮件验证",
+    "YourEmailNotVerified": "您的电子邮件尚未得到验证。",
+    "SendAVerificationEmail": "发送一封验证邮件到 {{email}}",
+    "SendEmailVerificationLink": "发送电子邮件验证链接",
+    "success": "成功",
+    "failed": "失败",
+    "emailVerifyMsg": "新的验证链接将发送到您的电子邮件地址。 请在2小时内激活您的账号。"
+  }
+}
